@@ -22,7 +22,7 @@ function input1(tagname,content){
 }
 
 var table=input("table","class","table");
-var thead=input("thead","class","thead");
+var thead=input("thead","class","thead-light");
 
 var tr=inputele("tr");
 thead.append(tr);
